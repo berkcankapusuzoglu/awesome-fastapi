@@ -10,7 +10,7 @@
 
 - [Third-Party Extensions](#third-party-extensions)
   - [Admin](#admin)
-  - [Auth](#auth)h
+  - [Auth](#auth)
   - [CyberSecurity](#cybersecurity)
   - [Databases](#databases)
   - [Dependency Injection](#dependency-injection)
