@@ -10,7 +10,7 @@
 
 - [Third-Party Extensions](#third-party-extensions)
   - [Admin](#admin)
-  - [Auth](#auth)
+  - [Auth](#auth)h
   - [CyberSecurity](#cybersecurity)
   - [Databases](#databases)
   - [Dependency Injection](#dependency-injection)
@@ -324,6 +324,7 @@ Compute:
 - [OSBot-Fast-API](https://github.com/owasp-sbot/OSBot-Fast-API) - Type-safe FastAPI wrapper that provides middleware, HTTP event tracking, AWS Lambda integration, test utilities, and auto-conversion between Type_Safe, Pydantic, and dataclasses.
 - [Polar](https://github.com/polarsource/polar) - A funding and monetization platform for developers, built with FastAPI, SQLAlchemy, Alembic, and Arq.
 - [RealWorld Example App - mongo](https://github.com/markqiu/fastapi-mongodb-realworld-example-app)
+- - [Rental Property Deal Analyzer](https://github.com/berkcankapusuzoglu/Rental-Property-Deal-Analyzer) - Free rental property investment calculator with 20+ metrics, AI-powered analysis, deal scoring, and 5-year return projections.
 - [RealWorld Example App - postgres](https://github.com/nsidnev/fastapi-realworld-example-app)
 - [redis-streams-fastapi-chat](https://github.com/leonh/redis-streams-fastapi-chat) - A simple Redis Streams backed chat app using Websockets, Asyncio and FastAPI/Starlette.
 - [Sprites as a service](https://github.com/ljvmiranda921/sprites-as-a-service) - Generate your personal 8-bit avatars using Cellular Automata.
